@@ -1,6 +1,6 @@
 # 📝 Listify
 
-![Listify Logo](assets/icons/icon3.png.png)
+![Listify Logo](icons/icon3.png)
 
 **Listify** is a cross-platform To-Do List app that helps you stay organized and productive, wherever you are.  
 With secure cloud sync, your tasks are always available across all your devices.
