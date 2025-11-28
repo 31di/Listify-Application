@@ -21,8 +21,7 @@ With secure cloud sync, your tasks are always available across all your devices.
 
 - **Flutter** – Cross-platform UI toolkit
 - **Dart** – Programming language
-- **Firebase / Supabase** – For authentication and real-time data *(adjust based on what you used)*
-- **Provider / Riverpod / Bloc** – *(If you used any state management, mention it here)*
+- **Supabase** – For authentication and real-time data 
 
 ---
 
